@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/denizugutgen/Desktop/cet322FINAL/cet322finalproject_cineheads/cet322finalproject_cineheads/cet322finalproject_cineheads.csproj",
+      "projectUniqueName": "/Users/denizugutgen/Desktop/ cet322son/cet322son/cet322finalproject_cineheads/cet322finalproject_cineheads.csproj",
       "projectName": "cet322finalproject_cineheads",
-      "projectPath": "/Users/denizugutgen/Desktop/cet322FINAL/cet322finalproject_cineheads/cet322finalproject_cineheads/cet322finalproject_cineheads.csproj",
+      "projectPath": "/Users/denizugutgen/Desktop/ cet322son/cet322son/cet322finalproject_cineheads/cet322finalproject_cineheads.csproj",
       "packagesPath": "/Users/denizugutgen/.nuget/packages/",
-      "outputPath": "/Users/denizugutgen/Desktop/cet322FINAL/cet322finalproject_cineheads/cet322finalproject_cineheads/obj/",
+      "outputPath": "/Users/denizugutgen/Desktop/ cet322son/cet322son/cet322finalproject_cineheads/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/denizugutgen/.nuget/NuGet/NuGet.Config"

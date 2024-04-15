@@ -9,45 +9,45 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = cet322finalproject_cineheads
 build_property.RootNamespace = cet322finalproject_cineheads
-build_property.ProjectDir = /Users/denizugutgen/Desktop/cet322FINAL/cet322finalproject_cineheads/cet322finalproject_cineheads/
+build_property.ProjectDir = /Users/denizugutgen/Desktop/ cet322son/cet322son/cet322finalproject_cineheads/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/denizugutgen/Desktop/cet322FINAL/cet322finalproject_cineheads/cet322finalproject_cineheads
+build_property.MSBuildProjectDirectory = /Users/denizugutgen/Desktop/ cet322son/cet322son/cet322finalproject_cineheads
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/denizugutgen/Desktop/cet322FINAL/cet322finalproject_cineheads/cet322finalproject_cineheads/Views/films/filmindex.cshtml]
+[/Users/denizugutgen/Desktop/ cet322son/cet322son/cet322finalproject_cineheads/Views/films/filmindex.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvZmlsbXMvZmlsbWluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/denizugutgen/Desktop/cet322FINAL/cet322finalproject_cineheads/cet322finalproject_cineheads/Views/films/filmlist.cshtml]
+[/Users/denizugutgen/Desktop/ cet322son/cet322son/cet322finalproject_cineheads/Views/films/filmlist.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvZmlsbXMvZmlsbWxpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/denizugutgen/Desktop/cet322FINAL/cet322finalproject_cineheads/cet322finalproject_cineheads/Views/Home/Contact.cshtml]
+[/Users/denizugutgen/Desktop/ cet322son/cet322son/cet322finalproject_cineheads/Views/Home/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Db250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/denizugutgen/Desktop/cet322FINAL/cet322finalproject_cineheads/cet322finalproject_cineheads/Views/Home/index.cshtml]
+[/Users/denizugutgen/Desktop/ cet322son/cet322son/cet322finalproject_cineheads/Views/Home/index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9pbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/denizugutgen/Desktop/cet322FINAL/cet322finalproject_cineheads/cet322finalproject_cineheads/Views/Shared/Error.cshtml]
+[/Users/denizugutgen/Desktop/ cet322son/cet322son/cet322finalproject_cineheads/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/denizugutgen/Desktop/cet322FINAL/cet322finalproject_cineheads/cet322finalproject_cineheads/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/denizugutgen/Desktop/ cet322son/cet322son/cet322finalproject_cineheads/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/denizugutgen/Desktop/cet322FINAL/cet322finalproject_cineheads/cet322finalproject_cineheads/Views/_ViewImports.cshtml]
+[/Users/denizugutgen/Desktop/ cet322son/cet322son/cet322finalproject_cineheads/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/denizugutgen/Desktop/cet322FINAL/cet322finalproject_cineheads/cet322finalproject_cineheads/Views/_ViewStart.cshtml]
+[/Users/denizugutgen/Desktop/ cet322son/cet322son/cet322finalproject_cineheads/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/denizugutgen/Desktop/cet322FINAL/cet322finalproject_cineheads/cet322finalproject_cineheads/Views/Shared/_Layout.cshtml]
+[/Users/denizugutgen/Desktop/ cet322son/cet322son/cet322finalproject_cineheads/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-dib344ag0l
