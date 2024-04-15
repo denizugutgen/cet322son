@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{96E090ED-B332-430C-8698-EF013F9A2BFE}|https">
+  <MonoDevelop.Ide.ItemProperties.cet322finalproject__cineheads PreferredExecutionTarget="/Applications/Opera.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="cet322finalproject_cineheads/Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="cet322finalproject_cineheads/Models/cine.cs" Line="1" Column="1" />
+      <File FileName="cet322finalproject_cineheads/Views/films/filmindex.cshtml" Line="1" Column="1" />
+      <File FileName="cet322finalproject_cineheads/Views/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="cet322finalproject_cineheads/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="cet322finalproject_cineheads/Views/Shared/_Layout.cshtml" Line="2" Column="1" />
+      <File FileName="cet322finalproject_cineheads/Views/films/filmlist.cshtml" Line="1" Column="1" />
+      <File FileName="cet322finalproject_cineheads/Views/Shared/_Layout.cshtml.css" Line="1" Column="1" />
+      <File FileName="cet322finalproject_cineheads/Views/Home/Contact.cshtml" Line="1" Column="22" />
+      <File FileName="cet322finalproject_cineheads/Views/Home/index.cshtml" Line="14" Column="7" />
+      <File FileName="cet322finalproject_cineheads/Views/Shared/Error.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="cet322finalproject_cineheads" expanded="True">
+            <Node name="cet322finalproject_cineheads" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="films" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" expanded="True" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
