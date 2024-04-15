@@ -1,0 +1,75 @@
+﻿@model cine;
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale1.0">
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/boostrap.min.css">
+    <title>Document</title>
+
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-dark bg-primary">
+            <div class="container">
+
+                <a class="navbar-brand" href="#"> IndependentDatabase</a>
+
+                <ul class="navbar-nav me-auto">
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">Home</a>
+
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">Films</a>
+
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <div class="container mt-3">
+        <main>
+            <h1> film index page</h1>
+            <p>
+                id: @Model.ID
+            </p>
+            <p>
+                title: @Model.Title
+
+            </p>
+            <p>
+                @Model.Description
+            </p>
+
+
+            <div class="row">
+
+                <div class="col-md-4">
+                    <img src="~/img/@Model.Image" class="img-fluid-rounded-start" alt="">
+                </div>
+                <div class="col-md-8">
+                    <h5 class="card-title"></h5>
+                    <p class="card-text">@Model.Description</p>
+                </div>
+
+            </div>
+        </main>
+    </div>
+    <h1> db index page </h1>
+    <p>
+        @Model.ID
+
+    </p>
+    <p>
+        @Model.Title
+    </p>
+</body>
+</html>
+
+
+
+

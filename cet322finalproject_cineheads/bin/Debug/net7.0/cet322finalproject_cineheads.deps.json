@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "cet322finalproject_cineheads/1.0.0": {
+        "runtime": {
+          "cet322finalproject_cineheads.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cet322finalproject_cineheads/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

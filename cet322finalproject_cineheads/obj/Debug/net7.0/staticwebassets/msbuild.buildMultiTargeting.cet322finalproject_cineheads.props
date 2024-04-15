@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/cet322finalproject_cineheads.props" />
+</Project>
