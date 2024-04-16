@@ -1,23 +1,16 @@
 ﻿<Properties StartupConfiguration="{96E090ED-B332-430C-8698-EF013F9A2BFE}|https">
-  <MonoDevelop.Ide.ItemProperties.cet322finalproject__cineheads PreferredExecutionTarget="/Applications/Opera.app" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="cet322finalproject_cineheads/Views/Shared/_Layout.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="cet322finalproject_cineheads/Views/Home/index.cshtml">
     <Files>
       <File FileName="cet322finalproject_cineheads/Models/cine.cs" Line="1" Column="1" />
-      <File FileName="cet322finalproject_cineheads/Views/films/filmindex.cshtml" Line="1" Column="1" />
-      <File FileName="cet322finalproject_cineheads/Views/_ViewImports.cshtml" Line="1" Column="1" />
-      <File FileName="cet322finalproject_cineheads/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="cet322finalproject_cineheads/Views/films/filmindex.cshtml" />
+      <File FileName="cet322finalproject_cineheads/Views/_ViewImports.cshtml" />
+      <File FileName="cet322finalproject_cineheads/Views/_ViewStart.cshtml" />
       <File FileName="cet322finalproject_cineheads/Views/Shared/_Layout.cshtml" Line="2" Column="1" />
-      <File FileName="cet322finalproject_cineheads/Views/films/filmlist.cshtml" Line="1" Column="1" />
-      <File FileName="cet322finalproject_cineheads/Views/Shared/_Layout.cshtml.css" Line="1" Column="1" />
+      <File FileName="cet322finalproject_cineheads/Views/films/filmlist.cshtml" />
+      <File FileName="cet322finalproject_cineheads/Views/Shared/_Layout.cshtml.css" />
       <File FileName="cet322finalproject_cineheads/Views/Home/Contact.cshtml" Line="1" Column="22" />
       <File FileName="cet322finalproject_cineheads/Views/Home/index.cshtml" Line="14" Column="7" />
-      <File FileName="cet322finalproject_cineheads/Views/Shared/Error.cshtml" Line="1" Column="1" />
+      <File FileName="cet322finalproject_cineheads/Views/Shared/Error.cshtml" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -28,10 +21,11 @@
               <Node name="Models" expanded="True" />
               <Node name="Properties" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="films" expanded="True" />
-                <Node name="Home" expanded="True" />
+                <Node name="Home" expanded="True">
+                  <Node name="index.cshtml" selected="True" />
+                </Node>
                 <Node name="Shared" expanded="True">
-                  <Node name="_Layout.cshtml" expanded="True" selected="True" />
+                  <Node name="_Layout.cshtml" expanded="True" />
                 </Node>
               </Node>
             </Node>
@@ -40,4 +34,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.cet322finalproject__cineheads PreferredExecutionTarget="/Applications/Opera.app" />
 </Properties>
